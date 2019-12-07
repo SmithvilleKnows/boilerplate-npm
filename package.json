@@ -3,6 +3,7 @@
 	"author": "SmithvilleKnows",
 	"description": "FunStuff",
 	"keywords": ["freecodecamp","Key","Words"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
